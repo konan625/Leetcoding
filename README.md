@@ -14,5 +14,6 @@ This will contain all the leetcode potd.
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/konan625/Leetcoding/tree/master/0197-rising-temperature) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/konan625/Leetcoding/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
